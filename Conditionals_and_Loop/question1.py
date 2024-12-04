@@ -7,5 +7,15 @@ if number > 0:
 elif number < 0:
     print('Negative')
 else:
-    print('Zero')        
+    print('Zero')      
+    # output
+
+    # Enter a number: 2 
+    # Positive  
+
+    # Enter a number: 0
+    # Zero
+
+    # Enter a number: -1
+    # Negative
 

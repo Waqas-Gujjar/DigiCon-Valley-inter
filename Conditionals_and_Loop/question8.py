@@ -2,16 +2,15 @@
 
 
 number = int(input('Enter a number: '))
-var = False
-if number == 0 or number == 1 :
-    print(f'{number} is not a prime number')
-elif number > 1:
-    for i in range (2,number):
-        if (number % 2 ) == 0 :
-
-            var = True
-            break
-if var:
-    print(f'{number} is not a prime number')       
+if number % 2 == 0 :
+    print(f'{number} is a prime number')  
 else:
-    print(f'{number} is a prime number')       
+   print(f'{number} is not a prime number')     
+
+# output
+
+# Enter a number: 2
+# 2 is a prime number
+
+# Enter a number: 3
+# 3 is not a prime number

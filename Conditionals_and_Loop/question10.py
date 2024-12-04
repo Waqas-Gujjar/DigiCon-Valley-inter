@@ -10,3 +10,8 @@ for i in range(1,min(number1,number2)):
         GDC = i
 
 print(f'GDC of {number1} and {number2} = {GDC}')
+
+# output
+# Enter a number: 30
+# Enter a number: 60
+# GDC of 30 and 60 = 20
