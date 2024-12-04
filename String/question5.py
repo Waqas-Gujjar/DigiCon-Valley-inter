@@ -10,3 +10,10 @@ for char in input_string:
         vowel_count += 1
 
 print("The number of vowels in the string is:",vowel_count)
+
+# output
+# Enter a vowelword: aeiou
+# The number of vowels in the string is: 5
+
+# Enter a vowelword: sdf
+# The number of vowels in the string is: 0

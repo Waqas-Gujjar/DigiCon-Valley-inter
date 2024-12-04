@@ -3,3 +3,8 @@
 str1 = str(input('Enter a sentance: '))
 
 print(str1.upper())
+
+
+# output
+# Enter a sentance: python
+# PYTHON

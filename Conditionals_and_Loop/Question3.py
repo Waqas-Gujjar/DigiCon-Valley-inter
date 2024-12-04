@@ -13,3 +13,9 @@ else:
 
 print(f'the maximum of {num1} , {num2} and {num3} is {maximum}')
 
+# output
+# Enter a first number: 5
+# Enter a second number: 6
+# Enter a third number: 9
+# the maximum of 5 , 6 and 9 is 9
+
